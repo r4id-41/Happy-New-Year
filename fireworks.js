@@ -6,7 +6,7 @@ const colors = [
     "#ff4cf1",
     "#ffffff"
 ];
-const letters = "✨❤HAPPY NEW YEAR❤✨";
+const letters = "✨❤I LOVE YOU❤✨";
 const nameLine1 = "Happy New Year";
 const nameLine2 = ":D";
 let letterIndex = 0;
